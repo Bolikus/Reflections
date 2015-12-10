@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates special directory, its name starts with dot sign. Git have to tracks file by initializng itself in this directory.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a intermediate entity between working directory and repository. First you have to add changed file in staging area and only than add this changes to repository.
