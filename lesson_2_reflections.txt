@@ -11,4 +11,8 @@ Staging area is a intermediate entity between working directory and repository. 
 
 Staging area accamulate files that's belong to one logical change. And then all changes from staging will be commit.
 
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches is helpful when you want to make some experimental changes to your project, but don't want to add some messy. You create new branch and do your experimental stuff there.
+
 
