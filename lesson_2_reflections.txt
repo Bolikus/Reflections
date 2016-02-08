@@ -15,4 +15,8 @@ Staging area accamulate files that's belong to one logical change. And then all 
 
 Branches is helpful when you want to make some experimental changes to your project, but don't want to add some messy. You create new branch and do your experimental stuff there.
 
+-How do the diagrams help you visualize the branch structure?
+
+Diagram visualizes git structure =)
+
 
