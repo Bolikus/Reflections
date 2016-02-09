@@ -23,4 +23,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result of merging two branches together is the new branch that collect all new code, delete deleted code. Diagram shows us in more readeble view structure of relationships between commits.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic Git's merging can't resolv conflicts, but you can do it manually.
+
 
