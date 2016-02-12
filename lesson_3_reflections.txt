@@ -3,3 +3,8 @@
 I want to use remote repository when I work on some project with another guys, as well I want to backup my data too =)
 This row I add by the web interface from github.com
 
+-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Sometimes I can work at the sime file and don't want resolve any conflicts. Also sometimes I don't want to waste my 3g connections. Manually updating is more controllable.
+
+
