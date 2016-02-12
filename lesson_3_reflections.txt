@@ -7,4 +7,8 @@ This row I add by the web interface from github.com
 
 Sometimes I can work at the sime file and don't want resolve any conflicts. Also sometimes I don't want to waste my 3g connections. Manually updating is more controllable.
 
+-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a github only feature - you cope someone else repository to your new repository. Your new repository links to the parent repository. Clone is a cope remote repository to your local machine. Branches is a new branch in commit tree in the repository.
+
 
