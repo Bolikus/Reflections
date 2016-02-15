@@ -11,4 +11,10 @@ Sometimes I can work at the sime file and don't want resolve any conflicts. Also
 
 Fork is a github only feature - you cope someone else repository to your new repository. Your new repository links to the parent repository. Clone is a cope remote repository to your local machine. Branches is a new branch in commit tree in the repository.
 
+-What is the benefit of having a copy of the last known state of the remote stored locally?
 
+You can always roll out your changes to the initial state. Also you can harmlessly merge your changes with remote.
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+After this course I have known only one colloboration tool - Google Docs. But for code projcet GITHUB is more convenient.
